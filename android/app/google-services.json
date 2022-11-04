@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336726868709",
+    "project_id": "signin-d8389",
+    "storage_bucket": "signin-d8389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336726868709:android:0d42f21cd04e8de8adca0c",
+        "android_client_info": {
+          "package_name": "com.example.ai_art_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336726868709-m842vu9tab16ikivpk61ahnp9n029oki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6PfxqQX40KcTQTIdvlI-7PGWr5eDzrQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336726868709-m842vu9tab16ikivpk61ahnp9n029oki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
